@@ -1,0 +1,37 @@
+div {
+    display: grid;
+    background-color: rgb(34, 215, 221);
+    width: 500px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+
+}
+
+input {
+
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    display: inline-block;
+    
+}
+
+.button {
+    margin-top: 30px;
+    background-color: rgb(225, 14, 14);
+    color: rgb(236, 236, 236);
+    width: 70px;
+}
+
+
+.nums {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 20px;
+}
